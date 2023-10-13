@@ -1,1 +1,1 @@
-# rust-based-os-comp2023-autumn
+# rust-based-os-camp2023-autumn
